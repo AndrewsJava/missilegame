@@ -28,7 +28,6 @@ proguard/
 .classpath
 .idea/
 .project 
-README.md
 SiliShield.iml
 build.gradle
 gradle/
