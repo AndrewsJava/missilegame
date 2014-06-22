@@ -24,3 +24,18 @@ proguard/
 
 #Log Files
 *.log
+
+.classpath
+.idea/
+.project 
+README.md
+SiliShield.iml
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+ic_launcher-web.png
+libs/
+proguard-project.txt
+project.properties
+
