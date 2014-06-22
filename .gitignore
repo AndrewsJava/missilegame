@@ -33,8 +33,7 @@ SiliShield.iml
 build.gradle
 gradle/
 gradlew
-gradlew.bat
-ic_launcher-web.png
+gradlew.bat 
 libs/
 proguard-project.txt
 project.properties
